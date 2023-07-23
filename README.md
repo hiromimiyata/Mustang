@@ -10,7 +10,7 @@ Used 2 datasets from this website on horse-racing data around the world in the y
 https://www.kaggle.com/datasets/hwaitt/horse-racing
 
 ### Data Cleaning
-Merged the two datasets and dropped unecessary columns and rows with missing information. We utilized MongoDB and SQL to input the dataset into a database to further analyze the data with different tools.
+Merged the two datasets and dropped unecessary columns and rows with missing information. Utilized MongoDB and SQL to input the dataset into a database to further analyze the data with different tools.
 
 ### Attempted Machine Learning Models
 Tested multiple machine learning models including Neural Network, Decision Tree, Random Forest, K-Nearest, etc. The machine leaning models used in the presentation were the models with the best outcomes. The models mentioned were Neural Networks and the Decision Tree.
