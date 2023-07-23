@@ -24,6 +24,11 @@ Tested multiple machine learning models including Neural Network, Decision Tree,
 
 ![Alt Text](https://github.com/hiromimiyata/Mustang/blob/main/Presentation_Slides/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-07-23%2011.14.26.png)
 
+In our dataset, we identified the top 10 features that greatly impact race outcomes. Among them, "ncond," which represents the condition type, emerges as a critical factor. Conditions such as weather, track surface, and race category can significantly influence a horse's performance, making it a key determinant in predicting race results.
+Following closely is the "race class" feature, which reflects the competitiveness and prestige of a race. Higher-class races attract top-quality horses, leading to intense competition and potentially higher winning chances for skilled racehorses.
+Another influential factor is the "jockey name." This feature indicates the jockey's ability to communicate effectively with the horse, strategize during the race, and make crucial decisions that can greatly influence the horse's performance.
+While "runners" and "age" appeared towards the end of our top 10 features list, they should not be underestimated in their importance. "Runners" represent the total number of horses competing in a race, and it can have a significant impact on the dynamics of the race. Larger fields can lead to more crowded and unpredictable races, making it crucial for horses to maneuver effectively to secure a favorable position. Similarly, "age" plays a critical role in determining a horse's performance. Younger horses, such as 2-year-olds, may have the advantage of speed and potential, while 3-year-olds might have gained valuable racing experience. As horses age beyond 3, their physical abilities may start to decline, affecting their racing performance.
+
 ![Alt Text](https://github.com/hiromimiyata/Mustang/blob/main/Presentation_Slides/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-07-23%2011.02.53.png)
 
 ![Alt Text](https://github.com/hiromimiyata/Mustang/blob/main/Presentation_Slides/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-07-23%2011.03.46.png)
