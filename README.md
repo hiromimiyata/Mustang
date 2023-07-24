@@ -45,9 +45,9 @@ In this chart, we explored the relationship between the "isfav" (Is Favorite) fe
 
 ![Alt Text](https://github.com/hiromimiyata/Mustang/blob/main/Presentation_Slides/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-07-23%2021.15.05.png)
 
-![Alt Text](https://github.com/hiromimiyata/Mustang/blob/main/Presentation_Slides/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-07-23%2011.05.13.png)
-
 ![Alt Text](https://github.com/hiromimiyata/Mustang/blob/main/Presentation_Slides/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-07-23%2021.15.18.png)
+
+![Alt Text](https://github.com/hiromimiyata/Mustang/blob/main/Presentation_Slides/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-07-23%2011.05.13.png)
 
 ![Alt Text](https://github.com/hiromimiyata/Mustang/blob/main/Presentation_Slides/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-07-23%2011.05.50.png)
 
