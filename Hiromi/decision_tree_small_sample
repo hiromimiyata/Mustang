@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="decimalPrice <= 0.886\ngini = 0.178\nsamples = 112134\nvalue = [101040, 11094]\nclass = Loss", fillcolor="#e88f4f"] ;
+1 [label="decimalPrice <= -0.339\ngini = 0.115\nsamples = 94440\nvalue = [88635, 5805]\nclass = Loss", fillcolor="#e78946"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="RPR <= 1.144\ngini = 0.055\nsamples = 56231\nvalue = [54641, 1590]\nclass = Loss", fillcolor="#e6853f"] ;
+1 -> 2 ;
+3 [label="gini = 0.046\nsamples = 52277\nvalue = [51053, 1224]\nclass = Loss", fillcolor="#e6843e"] ;
+2 -> 3 ;
+4 [label="gini = 0.168\nsamples = 3954\nvalue = [3588, 366]\nclass = Loss", fillcolor="#e88e4d"] ;
+2 -> 4 ;
+5 [label="RPR <= 1.672\ngini = 0.196\nsamples = 38209\nvalue = [33994, 4215]\nclass = Loss", fillcolor="#e89152"] ;
+1 -> 5 ;
+6 [label="gini = 0.18\nsamples = 35410\nvalue = [31869, 3541]\nclass = Loss", fillcolor="#e88f4f"] ;
+5 -> 6 ;
+7 [label="gini = 0.366\nsamples = 2799\nvalue = [2125, 674]\nclass = Loss", fillcolor="#eda978"] ;
+5 -> 7 ;
+8 [label="decimalPrice <= 2.312\ngini = 0.419\nsamples = 17694\nvalue = [12405, 5289]\nclass = Loss", fillcolor="#f0b78d"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="RPR <= -0.296\ngini = 0.373\nsamples = 13509\nvalue = [10165, 3344]\nclass = Loss", fillcolor="#eeaa7a"] ;
+8 -> 9 ;
+10 [label="gini = 0.195\nsamples = 1692\nvalue = [1507, 185]\nclass = Loss", fillcolor="#e89051"] ;
+9 -> 10 ;
+11 [label="gini = 0.392\nsamples = 11817\nvalue = [8658, 3159]\nclass = Loss", fillcolor="#eeaf81"] ;
+9 -> 11 ;
+12 [label="decimalPrice <= 4.376\ngini = 0.498\nsamples = 4185\nvalue = [2240, 1945]\nclass = Loss", fillcolor="#fceee5"] ;
+8 -> 12 ;
+13 [label="gini = 0.489\nsamples = 3571\nvalue = [2055, 1516]\nclass = Loss", fillcolor="#f8decb"] ;
+12 -> 13 ;
+14 [label="gini = 0.421\nsamples = 614\nvalue = [185, 429]\nclass = Win", fillcolor="#8ec7f0"] ;
+12 -> 14 ;
+}
