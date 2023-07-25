@@ -18,13 +18,13 @@ Tested multiple machine learning models including Neural Network, Decision Tree,
 ### Presentation Slides
 ![Alt Text](https://github.com/hiromimiyata/Mustang/blob/main/Presentation_Slides/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-07-23%2010.23.09.png)
 
-![Alt Text](https://github.com/hiromimiyata/Mustang/blob/main/Presentation_Slides/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-07-24%2020.23.01.png)
+![Alt Text](https://github.com/hiromimiyata/Mustang/blob/main/Presentation_Slides/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-07-24%2020.12.30.png)
 
 ![Alt Text](https://github.com/hiromimiyata/Mustang/blob/main/Presentation_Slides/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-07-23%2010.24.01.png)
 
-![Alt Text](https://github.com/hiromimiyata/Mustang/blob/main/Presentation_Slides/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-07-23%2010.24.15.png)
+![Alt Text](https://github.com/hiromimiyata/Mustang/blob/main/Presentation_Slides/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-07-24%2020.12.12.png)
 
-![Alt Text](https://github.com/hiromimiyata/Mustang/blob/main/Presentation_Slides/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-07-24%2020.11.37.png)
+![Alt Text](https://github.com/hiromimiyata/Mustang/blob/main/Presentation_Slides/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-07-24%2020.14.30.png)
 
  In our dataset, we identified the top 10 features that greatly impact race outcomes. Among them, "ncond," which represents the condition type, emerges as a critical factor. Conditions such as weather, track surface, and race category can significantly influence a horse's performance, making it a key determinant in predicting race results.
 Following closely is the "race class" feature, which reflects the competitiveness and prestige of a race. Higher-class races attract top-quality horses, leading to intense competition and potentially higher winning chances for skilled racehorses.
